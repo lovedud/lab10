@@ -1,0 +1,17 @@
+D:\Users\User\source\repos\Lab1CG\Lab1CG\bin\Debug\Lab1CG.exe
+D:\Users\User\source\repos\Lab1CG\Lab1CG\bin\Debug\Lab1CG.pdb
+D:\Users\User\source\repos\Lab1CG\Lab1CG\obj\Debug\Lab1CG.Form1.resources
+D:\Users\User\source\repos\Lab1CG\Lab1CG\obj\Debug\Lab1CG.Properties.Resources.resources
+D:\Users\User\source\repos\Lab1CG\Lab1CG\obj\Debug\Lab1CG.csproj.GenerateResource.cache
+D:\Users\User\source\repos\Lab1CG\Lab1CG\obj\Debug\Lab1CG.csproj.CoreCompileInputs.cache
+D:\Users\User\source\repos\Lab1CG\Lab1CG\obj\Debug\Lab1CG.exe
+D:\Users\User\source\repos\Lab1CG\Lab1CG\obj\Debug\Lab1CG.pdb
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\bin\Debug\Lab1CG.exe
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\bin\Debug\Lab1CG.pdb
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\obj\Debug\Lab1CG.csprojAssemblyReference.cache
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\obj\Debug\Lab1CG.Form1.resources
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\obj\Debug\Lab1CG.Properties.Resources.resources
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\obj\Debug\Lab1CG.csproj.GenerateResource.cache
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\obj\Debug\Lab1CG.csproj.CoreCompileInputs.cache
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\obj\Debug\Lab1CG.exe
+D:\MEXMAT\course4_1\КГ\mine\lab1\Lab1CG\obj\Debug\Lab1CG.pdb

@@ -1,0 +1,9 @@
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\bin\Release\Lab1CG.exe
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\bin\Release\Lab1CG.pdb
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\obj\Release\Lab1CG.csprojAssemblyReference.cache
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\obj\Release\Lab1CG.Form1.resources
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\obj\Release\Lab1CG.Properties.Resources.resources
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\obj\Release\Lab1CG.csproj.GenerateResource.cache
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\obj\Release\Lab1CG.csproj.CoreCompileInputs.cache
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\obj\Release\Lab1CG.exe
+D:\MEXMAT\course4_1\КГ\Lab1CG\Lab1CG\Lab1CG\obj\Release\Lab1CG.pdb
