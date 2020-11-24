@@ -1,0 +1,116 @@
+﻿  main.cpp
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(40,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(41,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(42,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(59,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(60,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(61,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(62,54): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(62,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(62,24): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(72,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(73,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(74,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(84,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(85,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(86,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(87,54): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(87,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(87,24): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(100,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(101,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(102,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(104,54): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(104,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(104,24): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(105,54): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(105,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(105,24): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(106,54): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(106,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(106,24): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(116,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(117,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(118,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(140,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(141,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(142,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(164,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(165,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(166,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(167,54): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(167,39): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\MEXMAT\course4_1\КГ\mine\lab10\lab10\main.cpp(167,24): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  lab10.vcxproj -> D:\MEXMAT\course4_1\КГ\mine\lab10\Debug\lab10.exe
